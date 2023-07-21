@@ -1,0 +1,26 @@
+.contenedor{
+	border: 1px solid gray;
+	display: flex;
+    justify-content: space-between;
+}
+
+.item{
+    color: white;
+	width: 200px;
+	height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+}
+
+#red{
+    background-color: crimson;
+}
+
+#blue{
+    background-color: cornflowerblue;
+}
+
+#green{
+    background-color: darkcyan;
+}
